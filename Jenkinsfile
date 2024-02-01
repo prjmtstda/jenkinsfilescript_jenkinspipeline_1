@@ -32,7 +32,7 @@ pipeline
                 echo 'Testing'
             }
         }
-		stage('Release') 
+	stage('Release') 
         {
             steps 
             {
